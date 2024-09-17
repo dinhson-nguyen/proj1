@@ -1,0 +1,4 @@
+module Main
+typeinfo proj1_node.qmltypes
+prefer :/qt/qml/Main/
+

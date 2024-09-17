@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt-project.org/imports/QtQuick/Studio/Effects">/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/qml/QtQuick/Studio/Effects</file>
+
+  </qresource>
+</RCC>

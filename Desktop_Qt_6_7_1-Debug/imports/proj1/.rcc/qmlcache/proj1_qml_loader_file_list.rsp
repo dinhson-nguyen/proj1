@@ -1,0 +1,8 @@
+--resource
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/imports/proj1/.qt/rcc/qmake_proj1.qrc
+--resource
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/imports/proj1/.qt/rcc/proj1_raw_qml_0.qrc
+/qt/qml/proj1/Constants.qml
+/qt/qml/proj1/DirectoryFontLoader.qml
+/qt/qml/proj1/EventListModel.qml
+/qt/qml/proj1/EventListSimulator.qml
