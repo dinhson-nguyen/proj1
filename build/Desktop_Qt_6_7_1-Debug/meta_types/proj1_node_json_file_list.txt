@@ -1,0 +1,2 @@
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/proj1_node_autogen/include/../7PH6M6IPMC/moc_backend.cpp.json
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/proj1_node_autogen/include/main.moc.json

@@ -1,0 +1,8 @@
+prefix=/home/dinhson/Qt/6.7.1/gcc_64
+
+Name: proj1_node
+Description: Description of proj1_node
+Version: 0.0.0
+Cflags: -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/dinhson/amr_ws/devel/include -I/usr/include
+Libs: -L${prefix}/lib -lproj1_node
+Requires: roscpp std_msgs std_stamped_msgs

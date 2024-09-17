@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_gtest_FILE /home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/gtest/lib/libgtest.so)
+set(__QT_DEPLOY_TARGET_gtest_main_FILE /home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/gtest/lib/libgtest_main.so)
+set(__QT_DEPLOY_TARGET_gmock_FILE /home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/gtest/lib/libgmock.so)
+set(__QT_DEPLOY_TARGET_gmock_main_FILE /home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/gtest/lib/libgmock_main.so)
+set(__QT_DEPLOY_TARGET_proj1_node_FILE /home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/devel/lib/proj1_node/proj1_node)
+set(__QT_DEPLOY_TARGET_proj1_qds_components_FILE /home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/devel/lib/libproj1_qds_components.so)

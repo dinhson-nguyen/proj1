@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">/home/dinhson/amr_ws/src/proj1/content/App.qml</file>
+    <file alias="Screen01.ui.qml">/home/dinhson/amr_ws/src/proj1/content/Screen01.ui.qml</file>
+    <file alias="Screen02.ui.qml">/home/dinhson/amr_ws/src/proj1/content/Screen02.ui.qml</file>
+    <file alias="Screen03.ui.qml">/home/dinhson/amr_ws/src/proj1/content/Screen03.ui.qml</file>
+    <file alias="fonts/fonts.txt">/home/dinhson/amr_ws/src/proj1/content/fonts/fonts.txt</file>
+    <file alias="images/battery-svgrepo-com.svg">/home/dinhson/amr_ws/src/proj1/content/images/battery-svgrepo-com.svg</file>
+  </qresource>
+</RCC>
+

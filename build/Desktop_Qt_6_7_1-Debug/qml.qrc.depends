@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>simplequick.qm</file>
+    </qresource>
+</RCC>

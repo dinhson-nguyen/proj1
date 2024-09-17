@@ -1,0 +1,14 @@
+--bare
+-I
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/qml
+-I
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/qml
+-I
+/home/dinhson/Qt/6.7.1/gcc_64/./qml
+--resource
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/_deps/ds-build/src/imports/utils/.qt/rcc/qmake_QtQuick_Studio_Utils.qrc
+--resource
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/_deps/ds-build/src/imports/utils/.qt/rcc/QuickStudioUtils_raw_qml_0.qrc
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/_deps/ds-src/src/imports/utils/JsonListModel.qml
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/_deps/ds-src/src/imports/utils/JsonBackend.qml
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/_deps/ds-src/src/imports/utils/ChildListModel.qml

@@ -1,0 +1,17 @@
+--bare
+-I
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/qml
+-I
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/qml
+-I
+/home/dinhson/Qt/6.7.1/gcc_64/./qml
+--resource
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/imports/proj1/.qt/rcc/qmake_proj1.qrc
+--resource
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/imports/proj1/.qt/rcc/proj1_raw_qml_0.qrc
+/home/dinhson/amr_ws/src/proj1/imports/proj1/Constants.qml
+/home/dinhson/amr_ws/src/proj1/imports/proj1/DirectoryFontLoader.qml
+/home/dinhson/amr_ws/src/proj1/imports/proj1/EventListModel.qml
+/home/dinhson/amr_ws/src/proj1/imports/proj1/EventListSimulator.qml
+--json
+/home/dinhson/amr_ws/src/proj1/build/Desktop_Qt_6_7_1-Debug/proj1_qmllint.json
